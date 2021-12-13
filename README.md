@@ -1,12 +1,12 @@
 # Multidimensional-lowest-energy--Mule
-MULE can find the lowest-(free)-energy pathway on a multidimensional landscape. 
+MULE can find the lowest-(free)-energy pathway on a multidimensional landscape using the Dijkstra algorithm. 
 
 ## Features
 
 Mathmetically rigorous;  
 Applicable to any dimension;  
 Compatible to periodic CVs;  
-Adaptable tu user-defined restraints (One can let the pathway pass by or bypass a region);
+Adaptable to user-defined restraints (One can use the A* algorithm or let the pathway pass by or bypass a region.);
 
 ## Installation
 
@@ -14,7 +14,8 @@ Simply compile mule.cpp. Windows users can use mule.exe inside the tutorial dire
 
 ## Manuals
 
-See the tutorial folder.
+See the tutorial folder.  
+A Chinese introduction of MULE can be found [here](http://bbs.keinsci.com/thread-17796-1-1.html).
 
 ## Reference
 
