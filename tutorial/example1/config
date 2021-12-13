@@ -1,0 +1,5 @@
+[mule]
+directory       =   nanma_ref.pmf
+initial         =   -156, 160
+end             =     78, -58
+pbc             =     1, 1

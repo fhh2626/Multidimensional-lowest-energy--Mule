@@ -1,0 +1,10 @@
+[mule]
+directory       =   nanma_ref.pmf
+initial         =   -156, 160
+end             =     78, -58
+lowerboundary   =   -180, -180
+upperboundary   =    178, 178
+width           =      2, 2
+pbc             =     1, 1
+writeExploredPoints   =   1
+target          =     136, -32, -0.1, -0.1
