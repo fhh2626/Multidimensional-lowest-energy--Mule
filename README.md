@@ -1,6 +1,8 @@
 # Multidimensional-lowest-energy--Mule
 MULE can find the lowest-(free)-energy pathway on a multidimensional landscape using the Dijkstra algorithm. 
 
+MULE is under maintenance. It is not updated frequently just because it is stable. Feel free to report any bugs. We use it everyday!
+
 ## Features
 
 Mathmetically rigorous;  
